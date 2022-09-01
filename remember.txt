@@ -1,0 +1,26 @@
+1.
+A CSS pseudo-element is used to style specified parts of an element.
+
+For example, it can be used to:
+
+Style the first letter, or line, of an element
+Insert content before, or after, the content of an element
+
+2.
+bockground-size:cover;
+
+	Resize the background image to cover the entire container, even if it has to stretch the image or cut a little bit off one of the edges
+    3.
+    a margin is the space around an element's border, while padding is the space between an element's border and the element's content.
+
+    4.
+    The display: inline-block Value
+Compared to display: inline, the major difference is that display: inline-block allows to set a width and height on the element.
+
+Also, with display: inline-block, the top and bottom margins/paddings are respected, but with display: inline they are not.
+
+Compared to display: block, the major difference is that display: inline-block does not add a line-break after the element, so the element can sit next to other elements.
+
+5.
+The :nth-child(n) selector matches every element that is the nth child of its parent.
+n can be a number, a keyword (odd or even), or a formula (like an + b).
